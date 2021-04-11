@@ -10,4 +10,5 @@ func main() {
 
 	s = append(s, 8)
 	fmt.Println(s)
+	fmt.Println("hello test")
 }
